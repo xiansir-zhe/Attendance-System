@@ -6,6 +6,8 @@
 
 <img width="489" alt="image" src="https://github.com/xiansir-zhe/Attendance-System/assets/77662779/5cdbdac2-2581-4b1e-bd0d-7bceca1be5dd">. 
 
+<img width="479" alt="image" src="https://github.com/xiansir-zhe/Attendance-System/assets/77662779/428b2c34-9268-4aff-939e-3a47ad9ac7c3">
+
 <img width="532" alt="image" src="https://github.com/xiansir-zhe/Attendance-System/assets/77662779/e0d1714b-cc2e-4971-a485-18c4e1ceb72b">. 
 
 <img width="509" alt="image" src="https://github.com/xiansir-zhe/Attendance-System/assets/77662779/874a0a3a-5128-40bc-b6a9-837e5ca871eb">. 
